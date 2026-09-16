@@ -1,0 +1,7 @@
+{
+  "name": "MS Ar Condicionado DF",
+  "description": "Instalação e Manutenção de Ar Condicionado no Plano Piloto e Distrito Federal. Serviços de climatização residencial e comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
